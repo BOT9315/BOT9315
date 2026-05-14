@@ -1,83 +1,117 @@
+<!-- ══════════════════════════════════════════════════════════════════
+     BOT9315 · Ankush — GitHub Profile README
+     Drop this file into a repo named: BOT9315/BOT9315
+     ══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+Ankush+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast)](https://git.io/typing-svg)
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f5ff,100:a855f7&height=200&section=header&text=Hi!%20I'm%20Ankush%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BOT9315%20·%20Full%20Stack%20Developer&descAlignY=58&descColor=00f5ff&animation=fadeIn" width="100%"/>
+
+<!-- ANIMATED TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=Python+%7C+Flask+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+AI-Powered+Healthcare+Systems+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C+%F0%9F%8D%80;Full+Stack+Developer+%7C+Problem+Solver+%F0%9F%9A%80;async+def+life()%3A+await+coffee())](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+### 🧑‍💻 About Me
 
 ```python
-ankush = {
-    "role":    "Full Stack Developer",
-    "stack":   ["Python", "Flask", "HTML", "CSS", "JavaScript"],
-    "focus":   "AI + Healthcare + Web",
-    "location":"India 🇮🇳",
-    "motto":   "build cool stuff, break things, repeat"
-}
+class Ankush:
+    username  = "BOT9315"
+    languages = ["Python", "JavaScript", "HTML", "CSS"]
+    frameworks= ["Flask"]
+    passion   = "Building things that matter"
+    goal      = "Open to exciting opportunities! 🚀"
+    
+    def greet(self):
+        return "Hello World! Let's build something awesome."
 ```
 
-</div>
+- 🔭 Working on **AI-Driven Healthcare Systems**
+- 🌱 Learning **Machine Learning & Deep Learning**
+- 💬 Ask me about **Python, Flask, Web Dev**
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/public-profile/settings) · [Instagram](https://www.instagram.com/iimankush_) · [LeetCode](https://leetcode.com/u/Ankush123009/)
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔤 Lang |
-|:-----------|:---------------|:--------|
-| [🏥 AI Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | ML-powered real-time anomaly detection in patient vitals | Python |
-| [🩺 MedSafe AI Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Continuous health monitoring with intelligent alerts | Python |
-| [✍️ Text → Handwriting](https://github.com/BOT9315/Text-to-handwriting-master) | Transform digital text into realistic handwriting | HTML |
-| [🐦 Flappy Bird](https://github.com/BOT9315/Flappy-Bird-Game) | Classic game — open source & free | Python |
-| [✂️ Rock Paper Scissors](https://github.com/BOT9315/Rock-Paper-Scissors-Game-using-python-code) | Python game — fun & educational | Python |
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📌 Featured Projects
+
+| 🚀 Project | 🔧 Tech | 📝 About |
+|---|---|---|
+| [AI Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · ML | Real-time anomaly detection in healthcare data |
+| [MedSafe AI Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Python · AI | Real-time healthcare monitoring system |
+| [Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master) | HTML · CSS | Convert digital text into handwriting style |
+| [Flappy Bird Game](https://github.com/BOT9315/Flappy-Bird-Game) | Python | Classic Flappy Bird clone in Python |
+| [Rock Paper Scissors](https://github.com/BOT9315/Rock-Paper-Scissors-Game-using-python-code) | Python | Fun Python game — free for all! |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a855f7&text_color=e2e8f0&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=e2e8f0&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BOT9315&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BOT9315&theme=midnight-purple&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌱 Currently
-
-- 🔭 Building **AI + Healthcare** applications
-- 🌱 Learning **Machine Learning & Deep Learning**
-- 👯 Open to **collaborations & freelance gigs**
-- 💬 Ask me about **Python, Flask, Web Dev**
-- ⚡ Fun fact: I've built AI that monitors health AND games that ruin your health (Flappy Bird 😅)
-
----
-
-## 🔗 Connect with me
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iimankush_?igsh=Y2V5dnh6bHJwcnA3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BOT9315&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BOT9315&bg_color=0a0e1a&color=00f5ff&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iimankush_)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ankush123009/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akrk053)
 
@@ -85,8 +119,68 @@ ankush = {
 
 ---
 
+### 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BOT9315&color=58a6ff&style=flat-square" alt="profile views" />
-  <br/><br/>
-  <i>"The best way to predict the future is to build it — one commit at a time." 🚀</i>
+
+<!-- Add GitHub Action to generate this: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BOT9315/BOT9315/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BOT9315/BOT9315/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BOT9315/BOT9315/output/github-snake-dark.svg"/>
+</picture>
+
+> 📌 **Snake Setup:** Create `.github/workflows/snake.yml` — see instructions below
+
+</div>
+
+---
+
+<details>
+<summary>⚙️ <b>How to set up the Snake Animation</b></summary>
+<br>
+
+Create this file: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<div align="center">
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00f5ff,100:0a0e1a&height=120&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BOT9315&style=for-the-badge&color=00f5ff&labelColor=0a0e1a)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/BOT9315?style=for-the-badge&color=a855f7&labelColor=0a0e1a&label=Followers)
+
+⭐ **Star some repos if you find them useful!** ⭐
+
 </div>
