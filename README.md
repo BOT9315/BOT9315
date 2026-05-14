@@ -130,13 +130,6 @@ class Ankush:
   <img alt="github-snake" src="https://raw.githubusercontent.com/BOT9315/BOT9315/output/github-snake-dark.svg"/>
 </picture>
 
-> 📌 **Snake Setup:** Create `.github/workflows/snake.yml` — see instructions below
-
-</div>
-
----
----
-
 <div align="center">
 
 <!-- ANIMATED FOOTER -->
