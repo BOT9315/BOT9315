@@ -7,15 +7,22 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{BOT9315}}
+          github_user_name: BOT9315
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
