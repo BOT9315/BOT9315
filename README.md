@@ -72,7 +72,12 @@ class Ankush:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a855f7&text_color=e2e8f0&count_private=true"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="180"
+  />
+</p>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=e2e8f0&langs_count=6"/>
 
