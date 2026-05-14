@@ -72,19 +72,6 @@ class Ankush:
 
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    height="180"
-  />
-</p>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=e2e8f0&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=BOT9315&theme=midnight-purple&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff)](https://git.io/streak-stats)
 
 </div>
