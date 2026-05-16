@@ -22,7 +22,7 @@
 ```python
 class Ankush:
     username  = "BOT9315"
-    languages = ["Python", "JavaScript", "HTML", "CSS"]
+    languages = ["Python", "JavaScript", "HTML", "CSS","C",C++]
     frameworks= ["Flask"]
     passion   = "Building things that matter"
     goal      = "Open to exciting opportunities! 🚀"
