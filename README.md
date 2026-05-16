@@ -65,7 +65,7 @@ class Ankush:
 | [Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master) | HTML · CSS | Convert digital text into handwriting style |
 | [Flappy Bird Game](https://github.com/BOT9315/Flappy-Bird-Game) | Python | Classic Flappy Bird clone in Python |
 | [Rock Paper Scissors](https://github.com/BOT9315/Rock-Paper-Scissors-Game-using-python-code) | Python | Fun Python game — free for all! |
-| [Memory OS system ](https://github.com/BOT9315/Memory-OS-FULL-App-Web.git) | HTML · Python |
+| [Memory OS system ](https://github.com/BOT9315/Memory-OS-FULL-App-Web.git) | HTML · Python | A life intelligence system that finds patterns in your journal, maps your relationships, tracks your emotional arc, and proactively surfaces insights |
 
 ---
 
