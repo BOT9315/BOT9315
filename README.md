@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-```python
+python
 class Ankush:
     username  = "BOT9315"
     languages = ["Python", "JavaScript", "HTML", "CSS","C","C++"]
