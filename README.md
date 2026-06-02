@@ -69,28 +69,6 @@ class Ankush:
 
 ---
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BOT9315&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BOT9315&bg_color=0a0e1a&color=00f5ff&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
