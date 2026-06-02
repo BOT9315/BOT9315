@@ -69,14 +69,6 @@ class Ankush:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BOT9315&theme=midnight-purple&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
