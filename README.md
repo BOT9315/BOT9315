@@ -60,6 +60,7 @@ class Ankush:
 ![Machine Learning](https://img.shields.io/badge/ML%20%2F%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -80,6 +81,7 @@ class Ankush:
 | 💻 **Full Stack Dev** | 🥉 Bronze | Frontend + Backend + ML |
 
 </div>
+
 ---
 
 ### 📈 Skill Proficiency
