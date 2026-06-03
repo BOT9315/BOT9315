@@ -60,20 +60,6 @@ class Ankush:
 ![Machine Learning](https://img.shields.io/badge/ML%20%2F%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-> ⚡ Stats below are pulled live from your GitHub — they update automatically.
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a855f7&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BOT9315&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a855f7&currStreakLabel=ffffff" />
-
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
