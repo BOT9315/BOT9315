@@ -80,7 +80,6 @@ class Ankush:
 | 💻 **Full Stack Dev** | 🥉 Bronze | Frontend + Backend + ML |
 
 </div>
-
 ---
 
 ### 📈 Skill Proficiency
