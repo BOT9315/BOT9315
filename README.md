@@ -76,16 +76,6 @@ class Ankush:
 
 ---
 
-### 🥇 Top Languages
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=ffffff&langs_count=8" />
-
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 > Built as pure HTML/Markdown — no broken images, always renders on GitHub.
