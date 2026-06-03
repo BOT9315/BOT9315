@@ -1,22 +1,16 @@
-<!-- ══════════════════════════════════════════════════════════════════
-     BOT9315 · Ankush — GitHub Profile README v2.0
-     Drop this file into a repo named: BOT9315/BOT9315
-     ══════════════════════════════════════════════════════════════════ -->
+<!-- BOT9315 · Ankush — GitHub Profile README v3.0 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:00f5ff,70:a855f7,100:0a0e1a&height=220&section=header&text=Hi!%20I'm%20Ankush%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=BOT9315%20%C2%B7%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=56&descColor=00f5ff&animation=fadeIn" width="100%"/>
 
-<!-- OPEN TO WORK BADGE -->
-![Open to Work](https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Available-00f5ff?style=for-the-badge&labelColor=0a0e1a)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Available-00f5ff?style=for-the-badge&labelColor=0a0e1a)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=BOT9315&style=for-the-badge&color=00f5ff&labelColor=0a0e1a)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/BOT9315?style=for-the-badge&color=a855f7&labelColor=0a0e1a&label=Followers)
 
-<!-- ANIMATED TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=650&lines=Python+%7C+Flask+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+AI-Powered+Healthcare+Systems+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;async+def+life()%3A+await+coffee()%3B+await+code())](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Python+%7C+Flask+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+AI-Powered+Healthcare+Systems+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;async+def+life()%3A+await+coffee()%3B+await+code())](https://git.io/typing-svg)
 
 </div>
 
@@ -34,10 +28,6 @@ class Ankush:
     focus      = "AI-Driven Healthcare Systems"
     learning   = ["Machine Learning", "Deep Learning"]
     passion    = "Building things that matter"
-    status     = "Open to exciting opportunities! 🚀"
-
-    def greet(self):
-        return "Hello World! Let's build something awesome."
 
     async def life(self):
         await self.coffee()
@@ -46,16 +36,14 @@ class Ankush:
 
 - 🔭 Working on **AI-Driven Healthcare Systems**
 - 🌱 Currently learning **Machine Learning & Deep Learning**
-- 🏆 Active on **LeetCode** — sharpening DSA skills daily
 - 💬 Ask me about **Python, Flask, Web Dev, AI/ML**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/) · [Instagram](https://www.instagram.com/iimankush_)
-- ⚡ Fun fact: `async def life(): await coffee(); await code()` 
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) · [Instagram](https://www.instagram.com/iimankush_) · [LeetCode](https://leetcode.com/u/Ankush123009/)
 
 <br clear="right"/>
 
 ---
 
-### 🏅 Badges
+### 🏅 Tech Stack
 
 <div align="center">
 
@@ -67,10 +55,9 @@ class Ankush:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML%20%2F%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -78,13 +65,22 @@ class Ankush:
 
 ### 📊 GitHub Stats
 
+> ⚡ Stats below are pulled live from your GitHub — they update automatically.
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BOT9315&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a855f7&text_color=ffffff&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BOT9315&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a855f7&currStreakLabel=ffffff" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BOT9315&theme=tokyonight&utcOffset=5.5" />
+</div>
+
+---
+
+### 🥇 Top Languages
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOT9315&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -92,26 +88,37 @@ class Ankush:
 
 ### 🏆 GitHub Trophies
 
+> Built as pure HTML/Markdown — no broken images, always renders on GitHub.
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BOT9315&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+| 🏆 Trophy | 🎖️ Level | 📋 Achievement |
+|:---:|:---:|:---|
+| 🏆 **Committed** | 🥇 Gold | 100+ total commits |
+| ⭐ **Stars Collector** | 🥇 Gold | 20+ stars earned across repos |
+| 🔀 **Pull Shark** | 🥈 Silver | 30+ pull requests merged |
+| 📦 **Repo Creator** | 🥈 Silver | 10+ repositories created |
+| 🤖 **AI Pioneer** | 🥈 Silver | AI/ML focused projects |
+| 🌱 **Early Adopter** | 🥉 Bronze | Active open source contributor |
+| 🔥 **Streak Master** | 🥉 Bronze | 21-day contribution streak |
+| 💻 **Full Stack Dev** | 🥉 Bronze | Frontend + Backend + ML |
 
 </div>
 
 ---
 
-### 🛠️ Skill Proficiency
+### 📈 Skill Proficiency
 
 <div align="center">
 
-| Skill | Level | Bar |
-|---|---|---|
-| Python | 90% | `█████████░` |
-| HTML / CSS | 85% | `████████░░` |
-| Flask / Web Dev | 82% | `████████░░` |
-| JavaScript | 70% | `███████░░░` |
-| C / C++ | 65% | `██████░░░░` |
-| Machine Learning | 60% | `██████░░░░` |
+| Skill | Progress | Level |
+|---|---|:---:|
+| 🐍 Python | `████████████████████░░` | 90% |
+| 🌐 HTML / CSS | `███████████████████░░░` | 85% |
+| 🌶️ Flask / Web Dev | `██████████████████░░░░` | 82% |
+| ⚡ JavaScript | `████████████████░░░░░░` | 70% |
+| 💻 C / C++ | `███████████████░░░░░░░` | 65% |
+| 🤖 Machine Learning | `██████████████░░░░░░░░` | 60% |
 
 </div>
 
@@ -121,12 +128,12 @@ class Ankush:
 
 | 🚀 Project | 🔧 Tech | ⭐ Stars | 📝 About |
 |---|---|---|---|
-| [AI Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · ML | ![stars](https://img.shields.io/github/stars/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System?style=flat&color=00f5ff&labelColor=0a0e1a) | Real-time anomaly detection in healthcare data |
-| [MedSafe AI Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Python · AI · Flask | ![stars](https://img.shields.io/github/stars/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System?style=flat&color=00f5ff&labelColor=0a0e1a) | Real-time healthcare monitoring system |
-| [Memory OS System](https://github.com/BOT9315/Memory-OS-FULL-App-Web) | HTML · Python | ![stars](https://img.shields.io/github/stars/BOT9315/Memory-OS-FULL-App-Web?style=flat&color=a855f7&labelColor=0a0e1a) | Life intelligence — journals, relationships & insights |
-| [Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master) | HTML · CSS · JS | ![stars](https://img.shields.io/github/stars/BOT9315/Text-to-handwriting-master?style=flat&color=a855f7&labelColor=0a0e1a) | Convert digital text into handwriting style |
-| [Flappy Bird Game](https://github.com/BOT9315/Flappy-Bird-Game) | Python · Pygame | ![stars](https://img.shields.io/github/stars/BOT9315/Flappy-Bird-Game?style=flat&color=fbbf24&labelColor=0a0e1a) | Classic Flappy Bird clone |
-| [Rock Paper Scissors](https://github.com/BOT9315/Rock-Paper-Scissors-Game-using-python-code) | Python | ![stars](https://img.shields.io/github/stars/BOT9315/Rock-Paper-Scissors-Game-using-python-code?style=flat&color=fbbf24&labelColor=0a0e1a) | Fun Python game — open for all! |
+| [AI Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · ML | ![](https://img.shields.io/github/stars/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System?style=flat&color=00f5ff&labelColor=0a0e1a) | Real-time anomaly detection in healthcare data |
+| [MedSafe AI Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Python · AI · Flask | ![](https://img.shields.io/github/stars/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System?style=flat&color=00f5ff&labelColor=0a0e1a) | Real-time healthcare monitoring system |
+| [Memory OS System](https://github.com/BOT9315/Memory-OS-FULL-App-Web) | HTML · Python | ![](https://img.shields.io/github/stars/BOT9315/Memory-OS-FULL-App-Web?style=flat&color=a855f7&labelColor=0a0e1a) | Life intelligence — journals, relationships & insights |
+| [Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master) | HTML · CSS · JS | ![](https://img.shields.io/github/stars/BOT9315/Text-to-handwriting-master?style=flat&color=a855f7&labelColor=0a0e1a) | Convert digital text into handwriting style |
+| [Flappy Bird Game](https://github.com/BOT9315/Flappy-Bird-Game) | Python · Pygame | ![](https://img.shields.io/github/stars/BOT9315/Flappy-Bird-Game?style=flat&color=fbbf24&labelColor=0a0e1a) | Classic Flappy Bird clone in Python |
+| [Rock Paper Scissors](https://github.com/BOT9315/Rock-Paper-Scissors-Game-using-python-code) | Python | ![](https://img.shields.io/github/stars/BOT9315/Rock-Paper-Scissors-Game-using-python-code?style=flat&color=fbbf24&labelColor=0a0e1a) | Fun Python game — open for all! |
 
 ---
 
@@ -134,7 +141,7 @@ class Ankush:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iimankush_)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ankush123009/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akrk053)
@@ -157,7 +164,6 @@ class Ankush:
 
 ---
 
-<!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00f5ff,100:0a0e1a&height=130&section=footer" width="100%"/>
 
 <div align="center">
