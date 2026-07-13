@@ -34,7 +34,6 @@ class Ankush:
         await self.code()  # infinite loop ♾️
 ```
 
-- 🔭 Working on **AI-Driven Healthcare Systems**
 - 🌱 Currently learning **Machine Learning & Deep Learning**
 - 💬 Ask me about **Python, Flask, Web Dev, AI/ML**
 - 📫 Connect: [LinkedIn](https://www.instagram.com/i.ankushh__/) · [Instagram](https://www.instagram.com/iimankush_) · [LeetCode](https://www.linkedin.com/in/ankush-kumar-a8b551378/)
