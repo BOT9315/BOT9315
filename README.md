@@ -1,4 +1,4 @@
-<!-- BOT9315 · Ankush — GitHub Profile README v3.0 -->
+<!-- BOT9315 · Ankush — GitHub Profile README v3.1 -->
 
 <div align="center">
 
@@ -102,16 +102,35 @@ class Ankush:
 
 ### 📌 Featured Projects
 
-| 🚀 Project | 🔧 Tech | ⭐ Stars | 📝 About |
-|---|---|---|---|
-| [AI Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · ML | ![](https://img.shields.io/github/stars/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System?style=flat&color=00f5ff&labelColor=0a0e1a) | Real-time anomaly detection in healthcare data |
-| [MedSafe AI Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Python · AI · Flask | ![](https://img.shields.io/github/stars/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System?style=flat&color=00f5ff&labelColor=0a0e1a) | Real-time healthcare monitoring system |
-| [Memory OS System](https://github.com/BOT9315/Memory-OS-FULL-App-Web) | HTML · Python | ![](https://img.shields.io/github/stars/BOT9315/Memory-OS-FULL-App-Web?style=flat&color=a855f7&labelColor=0a0e1a) | Life intelligence — journals, relationships & insights |
-| [Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master) | HTML · CSS · JS | ![](https://img.shields.io/github/stars/BOT9315/Text-to-handwriting-master?style=flat&color=a855f7&labelColor=0a0e1a) | Convert digital text into handwriting style |
-| [Flappy Bird Game](https://github.com/BOT9315/Flappy-Bird-Game) | Python · Pygame | ![](https://img.shields.io/github/stars/BOT9315/Flappy-Bird-Game?style=flat&color=fbbf24&labelColor=0a0e1a) | Classic Flappy Bird clone in Python |
-| [Rock Paper Scissors](https://github.com/BOT9315/Rock-Paper-Scissors-Game-using-python-code) | Python | ![](https://img.shields.io/github/stars/BOT9315/Rock-Paper-Scissors-Game-using-python-code?style=flat&color=fbbf24&labelColor=0a0e1a) | Fun Python game — open for all! |
+<div align="center">
+
+| 🚀 Project                                                                                                            | 🔧 Tech Stack                            | 📝 Description                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [🛣️ AI-Powered Road Damage Detection](https://github.com/BOT9315/AI-powered_road-damage-detection)                   | Python · YOLO · FastAPI · OpenCV · ML    | Detects and identifies road damage from images using a trained YOLO model with a FastAPI backend.           |
+| [🏥 AI-Driven Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · Kafka · ML · PostgreSQL · Flask | Real-time healthcare anomaly detection using machine learning, Kafka-based data ingestion and backend APIs. |
+| [💊 MedSafe AI — Healthcare Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Python · AI · Flask · OCR                | AI-powered healthcare system for monitoring medical information and detecting potential anomalies.          |
+| [🧠 Memory OS — Full Stack App](https://github.com/BOT9315/Memory-OS-FULL-App-Web)                                    | HTML · CSS · JavaScript · Python         | Personal intelligence platform for managing memories, journals, relationships and useful insights.          |
+| [🏋️ FitBuddy — AI Fitness Assistant](https://github.com/BOT9315/FitBuddy)                                            | Python · FastAPI · Gemini AI             | AI-powered fitness assistant that generates personalized workout and fitness plans.                         |
+| [✍️ Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master)                                       | HTML · CSS · JavaScript                  | Converts typed digital text into realistic handwriting-style output.                                        |
+
+</div>
 
 ---
+
+### 🔥 Project Highlights
+
+* 🤖 **AI/ML:** YOLO-based computer vision, anomaly detection and AI-powered applications
+* ⚡ **Backend:** FastAPI, Flask, REST APIs and real-time data processing
+* 🌐 **Frontend:** HTML, CSS and JavaScript
+* 🗄️ **Data:** PostgreSQL and machine-learning pipelines
+* 🚀 **Focus:** Building practical AI systems that solve real-world problems
+
+<div align="center">
+
+**🚀 Building → Learning → Improving → Shipping**
+
+</div>
+
 
 ### 🌐 Connect With Me
 
