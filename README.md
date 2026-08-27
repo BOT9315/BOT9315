@@ -1,5 +1,4 @@
 <!-- BOT9315 · Ankush — GitHub Profile README v3.1 -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:00f5ff,70:a855f7,100:0a0e1a&height=220&section=header&text=Hi!%20I'm%20Ankush%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=BOT9315%20%C2%B7%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=56&descColor=00f5ff&animation=fadeIn" width="100%"/>
