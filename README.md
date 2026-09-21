@@ -98,21 +98,47 @@ class Ankush:
 </div>
 
 ---
-
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 Project                                                                                                            | 🔧 Tech Stack                            | 📝 Description                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [🛣️ AI-Powered Road Damage Detection](https://github.com/BOT9315/AI-powered_road-damage-detection)                   | Python · YOLO · FastAPI · OpenCV · ML    | Detects and identifies road damage from images using a trained YOLO model with a FastAPI backend.           |
-| [🏥 AI-Driven Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · Kafka · ML · PostgreSQL · Flask | Real-time healthcare anomaly detection using machine learning, Kafka-based data ingestion and backend APIs. |
-| [💊 MedSafe AI — Healthcare Monitoring](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System) | Python · AI · Flask · OCR                | AI-powered healthcare system for monitoring medical information and detecting potential anomalies.          |
-| [🧠 Memory OS — Full Stack App](https://github.com/BOT9315/Memory-OS-FULL-App-Web)                                    | HTML · CSS · JavaScript · Python         | Personal intelligence platform for managing memories, journals, relationships and useful insights.          |
-| [🏋️ FitBuddy — AI Fitness Assistant](https://github.com/BOT9315/FitBuddy)                                            | Python · FastAPI · Gemini AI             | AI-powered fitness assistant that generates personalized workout and fitness plans.                         |
-| [✍️ Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master)                                       | HTML · CSS · JavaScript                  | Converts typed digital text into realistic handwriting-style output.                                        |
+| 🚀 Project                                                                                                            | 🔧 Tech Stack                                          | 📝 Description                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [📦 PackCheck AI — LMPC Compliance System](https://github.com/BOT9315/lmpc-compliance-system)                         | Python · FastAPI · OpenCV · Tesseract OCR · JavaScript | AI-powered packaging-label compliance engine that scans product images, extracts declarations using OCR and validates them against Legal Metrology rules. |
+| [🛣️ AI-Powered Road Damage Detection](https://github.com/BOT9315/AI-powered_road-damage-detection)                   | Python · YOLO · FastAPI · OpenCV                       | Computer-vision system for detecting road damage from images using a trained YOLO model and FastAPI backend.                                              |
+| [💊 MedSafe AI](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System)                         | Python · AI · Flask · OCR · Kafka · PostgreSQL         | Healthcare safety platform for extracting medicine information and monitoring medication-related data.                                                    |
+| [🏥 AI-Driven Healthcare Anomaly Detection](https://github.com/BOT9315/AI-Driven-Healthcare-Anomaly-Detection-System) | Python · ML · Kafka · PostgreSQL · Flask               | Real-time healthcare anomaly detection using machine learning, event streaming and backend APIs.                                                          |
+| [🧠 Memory OS](https://github.com/BOT9315/Memory-OS-FULL-App-Web)                                                     | HTML · CSS · JavaScript · Python                       | Full-stack personal intelligence platform for memories, journals, relationships and useful information.                                                   |
+| [🏋️ FitBuddy](https://github.com/BOT9315/FitBuddy)                                                                   | Python · FastAPI · Gemini AI                           | AI-powered fitness assistant for personalized fitness and workout guidance.                                                                               |
+| [✍️ Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master)                                       | HTML · CSS · JavaScript                                | Converts typed digital text into handwriting-style output.                                                                                                |
+| [💻 LeetCode Solutions](https://github.com/BOT9315/Leetcode-solutions)                                                | Java · DSA · Algorithms                                | Collection of LeetCode solutions covering arrays, strings, trees, searching, sorting and other DSA topics.                                                |
 
 </div>
+
+---
+
+### 📚 More Projects
+
+<div align="center">
+
+| Project                         | Category              |
+| ------------------------------- | --------------------- |
+| 🎮 Stone Paper Scissors         | JavaScript · Game     |
+| 📸 Instagram UI                 | HTML · CSS · Frontend |
+| 🌸 Flower Animation             | Python                |
+| ✍️ Text to Handwriting          | Web Development       |
+| 🧠 LeetCode Solutions           | Java · DSA            |
+| 🛣️ Road Damage Detection       | AI · Computer Vision  |
+| 📦 PackCheck AI                 | AI · OCR · Compliance |
+| 💊 MedSafe AI                   | Healthcare · AI       |
+| 🏥 Healthcare Anomaly Detection | ML · Kafka            |
+| 🧠 Memory OS                    | Full Stack            |
+| 🏋️ FitBuddy                    | AI · FastAPI          |
+
+</div>
+
+> **81+ repositories and growing 🚀** — exploring AI, machine learning, full-stack development, computer vision, healthcare technology and DSA.
+
 
 ---
 
