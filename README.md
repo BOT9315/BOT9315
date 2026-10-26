@@ -104,6 +104,7 @@ class Ankush:
 
 | 🚀 Project                                                                                                            | 🔧 Tech Stack                                          | 📝 Description                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [📅 Calendar Hidex — Private Vault](https://github.com/BOT9315/calendar_vault_app) | Flutter · Dart · Kotlin · AES-256 | Android calendar app that hides an encrypted photo, video and document vault, unlocked by a secret date sequence or fingerprint / face authentication. |
 | [📦 PackCheck AI — LMPC Compliance System](https://github.com/BOT9315/lmpc-compliance-system)                         | Python · FastAPI · OpenCV · Tesseract OCR · JavaScript | AI-powered packaging-label compliance engine that scans product images, extracts declarations using OCR and validates them against Legal Metrology rules. |
 | [🛣️ AI-Powered Road Damage Detection](https://github.com/BOT9315/AI-powered_road-damage-detection)                   | Python · YOLO · FastAPI · OpenCV                       | Computer-vision system for detecting road damage from images using a trained YOLO model and FastAPI backend.                                              |
 | [💊 MedSafe AI](https://github.com/BOT9315/MedSafe-AI-Real-Time-Healthcare-Monitoring-System)                         | Python · AI · Flask · OCR · Kafka · PostgreSQL         | Healthcare safety platform for extracting medicine information and monitoring medication-related data.                                                    |
@@ -123,6 +124,7 @@ class Ankush:
 
 | Project                         | Category              |
 | ------------------------------- | --------------------- |
+| 📅 Calendar Hidex               | Flutter · Security    |
 | 🎮 Stone Paper Scissors         | JavaScript · Game     |
 | 📸 Instagram UI                 | HTML · CSS · Frontend |
 | 🌸 Flower Animation             | Python                |
