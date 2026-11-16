@@ -1,4 +1,4 @@
-<!-- BOT9315 · Ankush — GitHub Profile README v3.1 -->
+<!-- BOT9315 · Ankush — GitHub Profile README v3.2 -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:00f5ff,70:a855f7,100:0a0e1a&height=220&section=header&text=Hi!%20I'm%20Ankush%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=BOT9315%20%C2%B7%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=56&descColor=00f5ff&animation=fadeIn" width="100%"/>
@@ -35,7 +35,7 @@ class Ankush:
 
 - 🌱 Currently learning **Machine Learning & Deep Learning**
 - 💬 Ask me about **Python, Flask, Web Dev, AI/ML**
-- 📫 Connect: [LinkedIn](https://www.instagram.com/i.ankushh__/) · [Instagram](https://www.instagram.com/i.ankushh__/) · [LeetCode](https://www.linkedin.com/in/ankush-kumar-a8b551378/)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/ankush-kumar-a8b551378/) · [Instagram](https://www.instagram.com/i.ankushh__/) · [LeetCode](https://leetcode.com/u/Ankush123009/)
 
 <br clear="right"/>
 
@@ -112,30 +112,10 @@ class Ankush:
 | [🧠 Memory OS](https://github.com/BOT9315/Memory-OS-FULL-App-Web)                                                     | HTML · CSS · JavaScript · Python                       | Full-stack personal intelligence platform for memories, journals, relationships and useful information.                                                   |
 | [🏋️ FitBuddy](https://github.com/BOT9315/FitBuddy)                                                                   | Python · FastAPI · Gemini AI                           | AI-powered fitness assistant for personalized fitness and workout guidance.                                                                               |
 | [✍️ Text to Handwriting](https://github.com/BOT9315/Text-to-handwriting-master)                                       | HTML · CSS · JavaScript                                | Converts typed digital text into handwriting-style output.                                                                                                |
+| [🎮 Stone Paper Scissors](https://github.com/BOT9315)                                                                 | JavaScript · Game                                      | Browser-based Stone Paper Scissors game.                                                                                                                  |
+| [📸 Instagram UI](https://github.com/BOT9315)                                                                         | HTML · CSS · Frontend                                  | Instagram-style user interface built with HTML and CSS.                                                                                                   |
+| [🌸 Flower Animation](https://github.com/BOT9315)                                                                     | Python                                                 | Animated flower drawing built with Python.                                                                                                                |
 | [💻 LeetCode Solutions](https://github.com/BOT9315/Leetcode-solutions)                                                | Java · DSA · Algorithms                                | Collection of LeetCode solutions covering arrays, strings, trees, searching, sorting and other DSA topics.                                                |
-
-</div>
-
----
-
-### 📚 More Projects
-
-<div align="center">
-
-| Project                         | Category              |
-| ------------------------------- | --------------------- |
-| 📅 Calendar Hidex               | Flutter · Security    |
-| 🎮 Stone Paper Scissors         | JavaScript · Game     |
-| 📸 Instagram UI                 | HTML · CSS · Frontend |
-| 🌸 Flower Animation             | Python                |
-| ✍️ Text to Handwriting          | Web Development       |
-| 🧠 LeetCode Solutions           | Java · DSA            |
-| 🛣️ Road Damage Detection       | AI · Computer Vision  |
-| 📦 PackCheck AI                 | AI · OCR · Compliance |
-| 💊 MedSafe AI                   | Healthcare · AI       |
-| 🏥 Healthcare Anomaly Detection | ML · Kafka            |
-| 🧠 Memory OS                    | Full Stack            |
-| 🏋️ FitBuddy                    | AI · FastAPI          |
 
 </div>
 
